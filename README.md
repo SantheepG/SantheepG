@@ -1,4 +1,4 @@
-# Heya! Santheep here 🤝
+# Hii! Santheep here 🤝
 <br>
 With a blend of creativity and precision, looking forward to unleash the power of code to craft digital wonders. 👨‍💻🧞‍♂️
 <br><br>
