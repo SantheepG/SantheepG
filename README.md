@@ -1,6 +1,6 @@
 <!-- Typing SVG generated from - https://github.com/DenverCoder1/readme-typing-svg | https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;Santheep%%20here;Full-stack%20Developer;Detail%20oriented;Self%20driven;Tech%20Savvy;&font=Fira%20Code&center=true&width=475&height=45&color=4493f8&vCenter=true&size=32"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;Santheep%20here;Full-stack%20Developer;Detail%20oriented;Self%20driven;Tech%20Savvy;&font=Fira%20Code&center=true&width=475&height=45&color=4493f8&vCenter=true&size=32"></a>
 </p>
 
 <!-- Social icons section -->
