@@ -14,8 +14,12 @@
 </div>
 <br/>
 <div align="center">
-🔥 GitHub Streak:
+### 🚀 Languages & Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantheepG&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantheepG&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SantheepG&theme=dracula&column=4)
+[![Santheep's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SantheepG&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
 
