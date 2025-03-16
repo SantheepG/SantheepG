@@ -15,7 +15,9 @@
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SantheepG&theme=radical)
 
 <p>
-  
+  ### 🔥 GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantheepG&theme=radical)
+
 <br/>
 
 <!-- Social badges section -->
