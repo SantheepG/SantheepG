@@ -18,6 +18,10 @@
 </div>
 ### 🔥 GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantheepG&theme=radical)
+### 📊 GitHub Summary:
+![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SantheepG&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SantheepG&theme=radical)
+
 
 
 <!--
