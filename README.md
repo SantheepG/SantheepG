@@ -5,7 +5,7 @@
 
 <!-- Social icons section -->
 <div align="center">
-  🚀 Languages & Stats:
+  🚀 Languages & Stats
 </div>
 <br/>
 <div align="center">
@@ -14,7 +14,7 @@
 </div>
 <br/>
 <div align="center">
-🔥 GitHub Streak:
+🔥 GitHub Streak
 </div>
 <br/>
 <div align="center">
