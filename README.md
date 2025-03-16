@@ -14,12 +14,12 @@
 </div>
 <br/>
 <div align="center">
-
-</div>
-
-### 🚀 Languages & Stats:
+🚀 Languages & Stats:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantheepG&theme=radical)
+</div>
+
+
 
 
 
