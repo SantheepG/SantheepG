@@ -7,6 +7,8 @@
 ### 🚀 Languages I Use:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantheepG&layout=compact&theme=radical)
 
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantheepG&show_icons=true&theme=radical)
 
 <p>
   
