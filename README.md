@@ -13,7 +13,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SantheepG&show_icons=true&theme=radical" height="150" />
 </div>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)
+### 📊 GitHub Summary:
+![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SantheepG&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SantheepG&theme=radical)
 
 <!--
 ### 📊 GitHub Summary:
