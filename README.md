@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SantheepG&show_icons=true&theme=radical" height="150" />
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)
 
 <!--
 ### 📊 GitHub Summary:
