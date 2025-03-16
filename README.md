@@ -4,7 +4,9 @@
 </p>
 
 <!-- Social icons section -->
-### 🚀 Languages & Stats:
+<div align="center">
+  ### 🚀 Languages & Stats:
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantheepG&layout=compact&theme=radical" height="150" />
