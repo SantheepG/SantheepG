@@ -4,13 +4,9 @@
 </p>
 
 <!-- Social icons section -->
-<p align="center">
-<a href="https://www.instagram.com/" target="_blank">
-  <img align="center" alt="Santheep | Instagram" width="24px" src="https://github.com/dilumdesilva/dilumdesilva/blob/main/src/instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/santheepg" target="_blank">
-  <img align="center" alt="Dilum De Siva | Linkedin" width="24px" src="https://github.com/dilumdesilva/dilumdesilva/blob/main/src/linkedin.svg" />
-</a> &nbsp;&nbsp;
+### 🚀 Languages I Use:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantheepG&layout=compact&theme=radical)
+
 
 <p>
   
