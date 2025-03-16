@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SantheepG&show_icons=true&theme=radical" height="150" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
 
 <!--
 ### 📊 GitHub Summary:
