@@ -13,6 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SantheepG&show_icons=true&theme=radical" height="150" />
 </div>
 
+![Santheep's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 <!--
 ### 📊 GitHub Summary:
