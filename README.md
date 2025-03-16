@@ -16,6 +16,17 @@
 ### 📊 GitHub Summary:
 ![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SantheepG&theme=radical)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SantheepG&theme=radical)
+### 📈 My GitHub Stats:
+![Santheep's GitHub Stats](https://github-profile-trophy.vercel.app/?username=SantheepG&theme=dracula&column=4)
+### 🔥 GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantheepG&theme=radical)
+### 🚀 Contribution Graph:
+[![Santheep's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SantheepG&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🚀 Languages & Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantheepG&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantheepG&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SantheepG&theme=dracula&column=4)
+[![Santheep's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SantheepG&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 ### 📊 GitHub Summary:
