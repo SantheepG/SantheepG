@@ -10,6 +10,10 @@
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantheepG&show_icons=true&theme=radical)
 
+### 📊 GitHub Summary:
+![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SantheepG&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SantheepG&theme=radical)
+
 <p>
   
 <br/>
