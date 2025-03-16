@@ -4,11 +4,13 @@
 </p>
 
 <!-- Social icons section -->
-### 🚀 Languages I Use:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantheepG&layout=compact&theme=radical)
+### 🚀 Languages & Stats:
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantheepG&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantheepG&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SantheepG&show_icons=true&theme=radical" height="150" />
+</div>
+
 
 <!--
 ### 📊 GitHub Summary:
