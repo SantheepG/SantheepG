@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+Santheep+Gamaethige;Full-Stack+Developer;Building+Things+That+Matter;&font=Fira+Code&center=true&width=500&height=50&color=4493f8&vCenter=true&size=28&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+Santheep+Ganeswaran;Full-Stack+Developer;Building+Things+That+Matter;&font=Fira+Code&center=true&width=500&height=50&color=4493f8&vCenter=true&size=28&pause=1000" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm a **Full-Stack Developer** passionate about building clean, performant, and user-friendly applications. I enjoy working across the entire stack — from crafting intuitive UIs to architecting reliable backends.
+A **Full-Stack Developer** passionate about building clean, performant, and user-friendly applications. I enjoy working across the entire stack — from crafting intuitive UIs to architecting reliable backends.
 
 - 🔭 Currently building real-world products with React, Node.js, and modern web tech
 - 💡 Detail-oriented and self-driven — I care about the *craft*, not just the output
