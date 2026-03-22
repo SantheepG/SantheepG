@@ -13,7 +13,7 @@
 
 A **Full-Stack Developer** passionate about building clean, performant, and user-friendly applications. I enjoy working across the entire stack — from crafting intuitive UIs to architecting reliable backends.
 
-- 🔭 Currently building real-world products with React, Node.js, and modern web tech
+- 🔭 Currently building real-world products and modern web tech
 - 💡 Detail-oriented and self-driven — I care about the *craft*, not just the output
 - 🌱 Always learning, always shipping
 
