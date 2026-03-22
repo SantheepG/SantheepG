@@ -4,16 +4,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+Santheep+Ganeswaran;Full-Stack+Developer;Building+Things+That+Matter;&font=Fira+Code&center=true&width=500&height=50&color=4493f8&vCenter=true&size=28&pause=1000" />
 </a>
-
 <br/>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=SantheepG&style=flat-square&color=4493f8" alt="Profile Views" />
-  <a href="https://github.com/SantheepG?tab=followers">
-    <img src="https://img.shields.io/github/followers/SantheepG?style=flat-square&color=4493f8&label=Followers" />
-  </a>
-</p>
-
 </div>
 
 ---
