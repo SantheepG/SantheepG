@@ -11,10 +11,10 @@
 
 ## 👋 About Me
 
-A **Full-Stack Developer** passionate about building clean, performant, and user-friendly applications. I enjoy working across the entire stack — from crafting intuitive UIs to architecting reliable backends.
+A **Full-Stack Developer** passionate about building clean, performant, and user-friendly applications. I enjoy working across the entire stack - from crafting intuitive UIs to architecting reliable backends.
 
 - 🔭 Currently building real-world products and modern web tech
-- 💡 Detail-oriented and self-driven — I care about the *craft*, not just the output
+- 💡 Detail-oriented and self-driven - I care about the *craft*, not just the output
 - 🌱 Always learning, always shipping
 
 ---
@@ -34,7 +34,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
     </td>
     <td width="50%">
       <h3>🏀 ShootArena</h3>
-      <p>A browser-based basketball game with smooth gameplay mechanics and an engaging user experience — built for fun and performance.</p>
+      <p>A browser-based basketball game with smooth gameplay mechanics and an engaging user experience - built for fun and performance.</p>
       <p>
         <a href="https://shootarena.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/Play%20Now-4493f8?style=for-the-badge&logo=netlify&logoColor=white" />
