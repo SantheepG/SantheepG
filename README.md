@@ -54,7 +54,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
     </td>
     <td width="50%">
       <h3>🚗 Prime Drive Rentals</h3>
-      <p>A vehicle rental platform with a polished frontend — browse, filter, and book rentals with a seamless user experience.</p>
+      <p>A vehicle rental platform with a polished frontend - browse, filter, and book rentals with a seamless user experience.</p>
       <p>
         <a href="https://primedriverentals.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" />
