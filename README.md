@@ -17,6 +17,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
 - 💡 Detail-oriented and self-driven - I care about the *craft*, not just the output
 - 🌱 Always learning, always shipping
 
+<a href="https://www.teacheron.com/tutor/dE5s?r=dE5s" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 160px !important; height: 68px !important"></a>
 ---
 
 ## 🚀 Featured Projects
