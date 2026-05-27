@@ -112,6 +112,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.teacheron.com/tutor/dE5s?r=dE5s" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 120px !important; height: 52px !important"></a>
 </div>
 
 <br/>
