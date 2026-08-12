@@ -117,5 +117,5 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
 <br/>
 
 <div align="center">
-  <i>"Code is craft. Ship things you're proud of."</i>
+  <i>"Code is a craft. Ship things you're proud of."</i>
 </div>
