@@ -45,7 +45,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
   </tr>
   <tr>
     <td width="50%">
-      <h3>🛒 Postre — POS System</h3>
+      <h3>🛒 Postre - POS System</h3>
       <p>A point-of-sale system demo designed for retail workflows. Handles inventory, transactions, and checkout flows with a clean, operator-friendly interface.</p>
       <p>
         <a href="https://postredemo.netlify.app/" target="_blank">
