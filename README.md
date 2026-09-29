@@ -25,6 +25,15 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
 <table>
   <tr>
     <td width="50%">
+      <h3>📞 CallerX</h3>
+      <p>An AI-powered voice agent calling platform designed to automate and scale outbound call campaigns, follow-ups, bookings, and repetitive workflows.</p>
+      <p>
+        <a href="https://callerxai.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
       <h3>🏦 SyncLedger</h3>
       <p>A real-time financial ledger app that syncs transactions across devices. Features multi-user support, live balance tracking, and a clean financial dashboard.</p>
       <p>
