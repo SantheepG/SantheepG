@@ -62,7 +62,7 @@ I'm a **Full-Stack Developer** who loves building clean, performant, user-friend
     </td>
     <td width="33%" valign="top">
       <h3>✨ More coming soon</h3>
-      <p>Always working on something new. Check out my repositories to see what's in progress.</p>
+      <p>Check out my repositories to see what's in progress.</p>
       <a href="https://github.com/SantheepG?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
     </td>
   </tr>
