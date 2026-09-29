@@ -1,130 +1,99 @@
 <div align="center">
 
-<!-- Typing SVG -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4493f8,100:8957e5&height=200&section=header&text=Santheep&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=22&descAlignY=60&animation=fadeIn" width="100%" alt="Santheep G" />
+
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;+Santheep+here;Full-Stack+Developer;Building+Things+That+Matter;&font=Fira+Code&center=true&width=500&height=50&color=4493f8&vCenter=true&size=28&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Santheep;Full-Stack+Developer;Building+things+that+matter&font=Fira+Code&center=true&width=500&height=50&color=4493f8&vCenter=true&size=14&pause=1000" alt="Typing animation" />
 </a>
+
 <br/>
+
+<a href="https://github.com/SantheepG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.teacheron.com/tutor/dE5s?r=dE5s"><img src="https://img.shields.io/badge/TeacherOn-Profile-4493f8?style=for-the-badge" alt="TeacherOn" /></a>
+
 </div>
 
----
-              
+<br/>
+
 ## 👋 About Me
 
-A **Full-Stack Developer** passionate about building clean, performant, and user-friendly applications, enjoys working across the entire stack - from crafting intuitive UIs to architecting reliable backends.
+I'm a **Full-Stack Developer** who loves building clean, performant, user-friendly applications, working across the whole stack, from crafting intuitive UIs to architecting reliable backends.
 
-- building real-world products and modern web tech
-- 💡 Detail-oriented and self-driven
-- Always learning, always shipping
+|     |     |
+| --- | --- |
+| 🚀 | Building real-world products with modern web tech |
+| 🎯 | Detail-oriented and self-driven |
+| 📚 | Always learning, always shipping |
 
-<a href="https://www.teacheron.com/tutor/dE5s?r=dE5s" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 160px !important; height: 68px !important"></a>
----
+<br/>
 
 ## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="20%">
+    <td width="33%" valign="top">
       <h3>📞 CallerX</h3>
-      <p>An AI-powered voice agent calling platform designed to automate and scale outbound call campaigns, follow-ups, bookings, and repetitive workflows.</p>
-      <p>
-        <a href="https://callerxai.netlify.app/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Live%20Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" />
-        </a>
-      </p>
+      <p>AI-powered voice agent platform that automates and scales outbound call campaigns, follow-ups, bookings, and repetitive workflows.</p>
+      <a href="https://callerxai.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" alt="CallerX demo" /></a>
     </td>
-    <td width="20%">
+    <td width="33%" valign="top">
       <h3>🏦 SyncLedger</h3>
-      <p>A real-time financial ledger app that syncs transactions across devices. Features multi-user support, live balance tracking, and a clean financial dashboard.</p>
-      <p>
-        <a href="https://syncledger.netlify.app/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Live%20Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" />
-        </a>
-      </p>
+      <p>Real-time financial ledger that syncs transactions across devices, with multi-user support, live balance tracking, and a clean dashboard.</p>
+      <a href="https://syncledger.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" alt="SyncLedger demo" /></a>
     </td>
-    <td width="20%">
+    <td width="33%" valign="top">
       <h3>🏀 ShootArena</h3>
-      <p>A browser-based basketball game with smooth gameplay mechanics and an engaging user experience - built for fun and performance.</p>
-      <p>
-        <a href="https://shootarena.netlify.app/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Play%20Now-4493f8?style=for-the-badge&logo=netlify&logoColor=white" />
-        </a>
-      </p>
+      <p>Browser-based basketball game with smooth gameplay mechanics and an engaging experience, built for fun and performance.</p>
+      <a href="https://shootarena.netlify.app/"><img src="https://img.shields.io/badge/Play_Now-4493f8?style=for-the-badge&logo=netlify&logoColor=white" alt="Play ShootArena" /></a>
     </td>
   </tr>
   <tr>
-    <td width="20%">
-      <h3>🛒 Postre - POS System</h3>
-      <p>A point-of-sale system demo designed for retail workflows. Handles inventory, transactions, and checkout flows with a clean, operator-friendly interface.</p>
-      <p>
-        <a href="https://postredemo.netlify.app/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Live%20Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" />
-        </a>
-      </p>
+    <td width="33%" valign="top">
+      <h3>🛒 Postre POS</h3>
+      <p>Point-of-sale demo for retail workflows: inventory, transactions, and checkout with an operator-friendly interface.</p>
+      <a href="https://postredemo.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" alt="Postre demo" /></a>
     </td>
-    <td width="20%">
+    <td width="33%" valign="top">
       <h3>🚗 Prime Drive Rentals</h3>
-      <p>A vehicle rental platform with a polished frontend - browse, filter, and book rentals with a seamless user experience.</p>
-      <p>
-        <a href="https://primedriverentals.netlify.app/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Live%20Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" />
-        </a>
-      </p>
+      <p>Vehicle rental platform with a polished frontend. Browse, filter, and book rentals with a seamless experience.</p>
+      <a href="https://primedriverentals.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" alt="Prime Drive demo" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>✨ More coming soon</h3>
+      <p>Always working on something new. Check out my repositories to see what's in progress.</p>
+      <a href="https://github.com/SantheepG?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,html,css,git,netlify&perline=11" alt="Tech stack" />
 
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantheepG&layout=compact&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SantheepG&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantheepG&theme=radical&hide_border=true" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SantheepG&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
----
-
-## 📬 Let's Connect
-
-<div align="center">
-  <a href="https://github.com/SantheepG">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <i>"Code is a craft. Ship things you're proud of."</i>
+
+*"Code is a craft. Ship things you're proud of."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4493f8,100:8957e5&height=100&section=footer" width="100%" alt="" />
+
 </div>
