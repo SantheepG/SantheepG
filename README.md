@@ -24,7 +24,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
 
 <table>
   <tr>
-    <td width="33.34%">
+    <td width="20%">
       <h3>📞 CallerX</h3>
       <p>An AI-powered voice agent calling platform designed to automate and scale outbound call campaigns, follow-ups, bookings, and repetitive workflows.</p>
       <p>
@@ -33,7 +33,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
         </a>
       </p>
     </td>
-    <td width="33.34%">
+    <td width="20%">
       <h3>🏦 SyncLedger</h3>
       <p>A real-time financial ledger app that syncs transactions across devices. Features multi-user support, live balance tracking, and a clean financial dashboard.</p>
       <p>
@@ -42,7 +42,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
         </a>
       </p>
     </td>
-    <td width="33.34%">
+    <td width="20%">
       <h3>🏀 ShootArena</h3>
       <p>A browser-based basketball game with smooth gameplay mechanics and an engaging user experience - built for fun and performance.</p>
       <p>
@@ -53,7 +53,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
     </td>
   </tr>
   <tr>
-    <td width="33.34%">
+    <td width="20%">
       <h3>🛒 Postre - POS System</h3>
       <p>A point-of-sale system demo designed for retail workflows. Handles inventory, transactions, and checkout flows with a clean, operator-friendly interface.</p>
       <p>
@@ -62,7 +62,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
         </a>
       </p>
     </td>
-    <td width="33.34%">
+    <td width="20%">
       <h3>🚗 Prime Drive Rentals</h3>
       <p>A vehicle rental platform with a polished frontend - browse, filter, and book rentals with a seamless user experience.</p>
       <p>
