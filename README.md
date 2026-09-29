@@ -28,7 +28,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
       <h3>📞 CallerX</h3>
       <p>An AI-powered voice agent calling platform designed to automate and scale outbound call campaigns, follow-ups, bookings, and repetitive workflows.</p>
       <p>
-        <a href="https://callerxai.netlify.app/" target="_blank">
+        <a href="https://callerxai.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
       </p>
@@ -37,7 +37,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
       <h3>🏦 SyncLedger</h3>
       <p>A real-time financial ledger app that syncs transactions across devices. Features multi-user support, live balance tracking, and a clean financial dashboard.</p>
       <p>
-        <a href="https://syncledger.netlify.app/" target="_blank">
+        <a href="https://syncledger.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
       </p>
@@ -46,7 +46,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
       <h3>🏀 ShootArena</h3>
       <p>A browser-based basketball game with smooth gameplay mechanics and an engaging user experience - built for fun and performance.</p>
       <p>
-        <a href="https://shootarena.netlify.app/" target="_blank">
+        <a href="https://shootarena.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Play%20Now-4493f8?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
       </p>
@@ -57,7 +57,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
       <h3>🛒 Postre - POS System</h3>
       <p>A point-of-sale system demo designed for retail workflows. Handles inventory, transactions, and checkout flows with a clean, operator-friendly interface.</p>
       <p>
-        <a href="https://postredemo.netlify.app/" target="_blank">
+        <a href="https://postredemo.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
       </p>
@@ -66,7 +66,7 @@ A **Full-Stack Developer** passionate about building clean, performant, and user
       <h3>🚗 Prime Drive Rentals</h3>
       <p>A vehicle rental platform with a polished frontend - browse, filter, and book rentals with a seamless user experience.</p>
       <p>
-        <a href="https://primedriverentals.netlify.app/" target="_blank">
+        <a href="https://primedriverentals.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
       </p>
