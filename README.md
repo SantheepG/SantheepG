@@ -14,7 +14,7 @@
 
 <br/>
 
-## Featured
+## • Featured •
 
 <table>
   <tr>
@@ -55,7 +55,7 @@
 
 <br/>
 
-## Stats
+## • Stats •
 
 <div align="center">
 
