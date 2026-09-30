@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Santheep+here;Full-Stack+Developer;Building+things+that+matter&font=Fira+Code&center=true&width=500&height=50&color=4493f8&vCenter=true&size=24&pause=1000" alt="Typing animation" />
 </a>
 
-##
-
 <table>
   <tr>
     <td width="33%" valign="top">
