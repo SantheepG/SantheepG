@@ -1,9 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4493f8,100:8957e5&height=200&section=header&text=Santheep&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=22&descAlignY=60&animation=fadeIn" width="100%" alt="Santheep G" />
-
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Santheep;Full-Stack+Developer;Building+things+that+matter&font=Fira+Code&center=true&width=500&height=50&color=4493f8&vCenter=true&size=14&pause=1000" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Santheep;Full-Stack+Developer;Building+things+that+matter&font=Fira+Code&center=true&width=500&height=50&color=4493f8&vCenter=true&size=24&pause=1000" alt="Typing animation" />
 </a>
 
 <br/>
@@ -17,19 +14,7 @@
 
 <br/>
 
-## 👋 About Me
-
-I'm a **Full-Stack Developer** who loves building clean, performant, user-friendly applications, working across the whole stack, from crafting intuitive UIs to architecting reliable backends.
-
-|     |     |
-| --- | --- |
-| 🚀 | Building real-world products with modern web tech |
-| 🎯 | Detail-oriented and self-driven |
-| 📚 | Always learning, always shipping |
-
-<br/>
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -70,17 +55,7 @@ I'm a **Full-Stack Developer** who loves building clean, performant, user-friend
 
 <br/>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,html,css,git,netlify&perline=11" alt="Tech stack" />
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -91,8 +66,6 @@ I'm a **Full-Stack Developer** who loves building clean, performant, user-friend
 <br/>
 
 <div align="center">
-
-*"Code is a craft. Ship things you're proud of."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4493f8,100:8957e5&height=100&section=footer" width="100%" alt="" />
 
