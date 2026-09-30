@@ -13,49 +13,45 @@
 </div>
 
 ##
-<!-- <h2 align="center">Featured</h2> -->
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>📞 CallerX</h3>
-      <p>AI-powered voice agent platform that automates and scales outbound call campaigns, follow-ups, bookings, and repetitive workflows.</p>
-      <a href="https://callerxai.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" alt="CallerX demo" /></a>
+      <h3>📞 CallerX <a href="https://callerxai.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-4493f8?style=flat-square&logo=netlify&logoColor=white" alt="CallerX demo" /></a></h3>
+      <p>AI-powered voice agent platform that automates and scales outbound call campaigns, and repetitive workflows.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🏦 SyncLedger</h3>
-      <p>Real-time financial ledger that syncs transactions across devices, with multi-user support, live balance tracking, and a clean dashboard.</p>
-      <a href="https://syncledger.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" alt="SyncLedger demo" /></a>
+      <h3>🏦 SyncLedger <a href="https://syncledger.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-4493f8?style=flat-square&logo=netlify&logoColor=white" alt="SyncLedger demo" /></a></h3>
+      <p>Real-time financial ledger that syncs transactions across devices, with multi-user support, live balance tracking etc.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🏀 ShootArena</h3>
-      <p>Browser-based basketball game with smooth gameplay mechanics and an engaging experience, built for fun and performance.</p>
-      <a href="https://shootarena.netlify.app/"><img src="https://img.shields.io/badge/Play_Now-4493f8?style=for-the-badge&logo=netlify&logoColor=white" alt="Play ShootArena" /></a>
+      <h3>🏀 ShootArena <a href="https://shootarena.netlify.app/"><img src="https://img.shields.io/badge/Play_Now-4493f8?style=flat-square&logo=netlify&logoColor=white" alt="Play ShootArena" /></a></h3>
+      <p>Browser-based basketball game with smooth gameplay mechanics and an engaging experience, built for fun.</p>
+    </br>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3>🛒 Postre POS</h3>
+      <h3>🛒 Postre POS <a href="https://postredemo.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-4493f8?style=flat-square&logo=netlify&logoColor=white" alt="Postre demo" /></a></h3>
       <p>Point-of-sale demo for retail workflows: inventory, transactions, and checkout with an operator-friendly interface.</p>
-      <a href="https://postredemo.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" alt="Postre demo" /></a>
+      </br>
     </td>
     <td width="33%" valign="top">
-      <h3>🚗 Prime Drive Rentals</h3>
+      <h3>🚗 Prime Drive Rentals <a href="https://primedriverentals.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-4493f8?style=flat-square&logo=netlify&logoColor=white" alt="Prime Drive demo" /></a></h3>
       <p>Vehicle rental platform with a polished frontend. Browse, filter, and book rentals with a seamless experience.</p>
-      <a href="https://primedriverentals.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-4493f8?style=for-the-badge&logo=netlify&logoColor=white" alt="Prime Drive demo" /></a>
     </td>
     <td width="33%" valign="top">
-      <h3>✨ More coming soon</h3>
+      <h3>✨ More coming soon <a href="https://github.com/SantheepG?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a></h3>
       <p>Check out my repositories to see what's in progress.</p>
-      <a href="https://github.com/SantheepG?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
     </td>
   </tr>
+  
 </table>
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4493f8,100:8957e5&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d84a05,100:ff9a3c&height=80&section=footer" width="100%" alt="" />
 
 </div>
