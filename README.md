@@ -3,13 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Santheep+here;Full-Stack+Developer;Building+things+that+matter&font=Fira+Code&center=true&width=500&height=50&color=4493f8&vCenter=true&size=24&pause=1000" alt="Typing animation" />
 </a>
 
-<br/>
-
-<a href="https://github.com/SantheepG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.teacheron.com/tutor/dE5s?r=dE5s"><img src="https://img.shields.io/badge/TeacherOn-Profile-4493f8?style=for-the-badge" alt="TeacherOn" /></a>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d84a05,100:ff9a3c&height=80&section=footer" width="100%" alt="" />
+</div>
 </div>
 
 ##
@@ -51,7 +47,8 @@
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d84a05,100:ff9a3c&height=80&section=footer" width="100%" alt="" />
-
+<a href="https://github.com/SantheepG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.teacheron.com/tutor/dE5s?r=dE5s"><img src="https://img.shields.io/badge/TeacherOn-Profile-4493f8?style=for-the-badge" alt="TeacherOn" /></a>
 </div>
