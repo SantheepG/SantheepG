@@ -37,11 +37,11 @@
       </br>
     </td>
     <td width="33%" valign="top">
-      <h3>🚗 Prime Drive Rentals <a href="https://primedriverentals.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-4493f8?style=flat-square&logo=netlify&logoColor=white" alt="Prime Drive demo" /></a></h3>
+      <h3>🚗 Prime Rentals <a href="https://primedriverentals.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-4493f8?style=flat-square&logo=netlify&logoColor=white" alt="Prime Drive demo" /></a></h3>
       <p>Vehicle rental platform with a polished frontend. Browse, filter, and book rentals with a seamless experience.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>✨ More coming soon <a href="https://github.com/SantheepG?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a></h3>
+      <h3>✨ More coming soon </h3>
       <p>Check out my repositories to see what's in progress.</p>
     </td>
   </tr>
