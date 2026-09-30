@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Santheep+here;Full-Stack+Developer;Building+things+that+matter&font=Fira+Code&center=true&width=500&height=50&color=4493f8&vCenter=true&size=24&pause=1000" alt="Typing animation" />
 </a>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d84a05,100:ff9a3c&height=80&section=footer" width="100%" alt="" />
-</div>
-</div>
-
 ##
 
 <table>
