@@ -14,7 +14,7 @@
 
 <br/>
 
-## • Featured •
+## Featured •
 
 <table>
   <tr>
@@ -52,16 +52,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-## • Stats •
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SantheepG&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-</div>
 
 <br/>
 
