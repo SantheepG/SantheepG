@@ -12,9 +12,8 @@
 
 </div>
 
-<br/>
-
-## Featured •
+##
+<!-- <h2 align="center">Featured</h2> -->
 
 <table>
   <tr>
